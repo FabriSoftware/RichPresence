@@ -19,12 +19,15 @@ Windows: install Nodejs [here](https://nodejs.org/en/)
 **Instructions**
 
 > Create New App in [Discord Developers Aplication](https://discord.com/developers/applications)
+
 ![Create App](/img/create-app.png)
 
 > Copy the client id in oauth2 tab
+
 ![Client ID](/img/Copy-ClientId.png)
 
 > submit image for the largeImage and Small Image
+
 ![Submit image](/img/Submit-Image.png)
 **(!)** wait a few minutes because it will take a while for discord to register the image you uploaded
 
