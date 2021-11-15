@@ -29,6 +29,7 @@ Windows: install Nodejs [here](https://nodejs.org/en/)
 > submit image for the largeImage and Small Image
 
 ![Submit image](/img/Submit-Image.png)
+
 **(!)** wait a few minutes because it will take a while for discord to register the image you uploaded
 
 > view the config.json and change the client id with you client id
