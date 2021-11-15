@@ -1,0 +1,29 @@
+{
+    "state": "Test App",
+    "details": "Playing Game",
+    "largeImage": {
+       "key": "large_image",
+       "text": "large_image text"
+    },
+    "smallImage": {
+        "key": "small_image",
+        "text": "small_image text"
+    },
+    "button": {
+        
+        "button1":{
+            "text": "Botton1",
+            "url": "https://github.com/FabriSoftware"
+        },
+
+        "button2": {
+            "text": "Botton2",
+            "url": "https://github.com/FabriSoftware"
+        }
+    },
+
+    "connection": {
+        "clientId": "909759197560860697",
+        "clientSecret": ""
+    }
+}
